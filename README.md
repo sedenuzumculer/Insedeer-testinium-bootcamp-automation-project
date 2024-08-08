@@ -1,20 +1,24 @@
 # Insedeer-testinium-bootcamp-automation-project
-PROJEDE GERÇEKLEŞTİRİLECEK ADIMLAR:
-1.http://www.amazon.com.tr sitesine gidilecek ve anasayfanın açıldığı assertion ile onaylatılacak.
-2.Ekranin üstündeki Search alanına 'samsung' yazıp arama işlemi gerçekleştirilecek.
-3.Gelen sayfada samsung icin sonuc bulunduğu onaylatılacak.
-4.Arama sonuçlarından 2. sayfaya tıklanıp ve açılan sayfada 2. sayfanin şu an gösterimde olduğu onaylatılacak.
-5.Üstten 5. Satır 1. Sütun içerisindeki ürüne tıklanacak. (ürün site yapısındaki anlık değişiklere göre farklılık gösterebilir)
-6. Ürün sayfasında olduğumuz doğrulanacak.
-7. Ürün sepete eklenir
-8. Sepet sayfasında olduğumuz doğrulanır
-9. Logo’ya tıklanarak ana sayfaya geri dönüş sağlanır
-Projede planlanan adımlar:
-Selenium ile test otomasyonları Python dilinde yazılır
-POM düzeninde yazılmalı
-Locater kullanımı ve gerekli teknolojilerle ilgili gerekli dökümantasyonlardan yararlanılır
-Clean code yazılmaya çalışılır 
-Code Review a gönderilir 
-pycharm kullanılır
-Ders tekrar izlenir ve eksik kalınan yerler dikkatle incelenir 
+
+**Proje Tanımı:**
+
+Bu proje, Testinium Bootcamp kapsamında geliştirilen bir web otomasyon projesidir. Amaç, Amazon Türkiye web sitesi üzerinde belirli senaryoları otomatikleştirerek test etmektir. Proje, Selenium WebDriver kullanarak Python dilinde yazılmıştır ve POM (Page Object Model) tasarım desenine uygun olarak yapılandırılmıştır.
+
+**Proje Özellikleri:**
+
+* **Amazon Türkiye Otomasyonu:** Amazon Türkiye web sitesinde arama, ürün seçimi, sepete ekleme ve sepet kontrolü gibi işlemleri otomatikleştirir.
+* **Selenium WebDriver:** Web tarayıcısı üzerinde etkileşimleri simüle etmek için Selenium WebDriver kütüphanesini kullanır.
+* **Python:** Otomasyon scriptleri Python programlama dili ile yazılmıştır.
+* **POM (Page Object Model):** Kodun daha okunabilir, sürdürülebilir ve bakımı kolay olması için POM tasarım deseni kullanılmıştır.
+* **Locator Kullanımı:** Web elementlerini bulmak için etkili ve güvenilir locator stratejileri kullanılmıştır.
+* **Clean Code:** Temiz kod prensiplerine uygun olarak yazılmış, anlaşılır ve düzenli bir kod yapısına sahiptir.
+* **Code Review:** Kod kalitesini artırmak için code review sürecinden geçirilmiştir.
+* **PyCharm IDE:** Geliştirme ortamı olarak PyCharm kullanılmıştır.
+
+**Gereksinimler:**
+
+* Python 3.x
+* Selenium WebDriver
+* PyCharm (veya tercih ettiğiniz bir IDE)
+* İlgili web driver'ları (örneğin, ChromeDriver)
 
