@@ -11,14 +11,7 @@ Bu proje, Testinium Bootcamp kapsamında geliştirilen bir web otomasyon projesi
 * **Python:** Otomasyon scriptleri Python programlama dili ile yazılmıştır.
 * **POM (Page Object Model):** Kodun daha okunabilir, sürdürülebilir ve bakımı kolay olması için POM tasarım deseni kullanılmıştır.
 * **Locator Kullanımı:** Web elementlerini bulmak için etkili ve güvenilir locator stratejileri kullanılmıştır.
-* **Clean Code:** Temiz kod prensiplerine uygun olarak yazılmış, anlaşılır ve düzenli bir kod yapısına sahiptir.
-* **Code Review:** Kod kalitesini artırmak için code review sürecinden geçirilmiştir.
 * **PyCharm IDE:** Geliştirme ortamı olarak PyCharm kullanılmıştır.
 
-**Gereksinimler:**
 
-* Python 3.x
-* Selenium WebDriver
-* PyCharm (veya tercih ettiğiniz bir IDE)
-* İlgili web driver'ları (örneğin, ChromeDriver)
 
