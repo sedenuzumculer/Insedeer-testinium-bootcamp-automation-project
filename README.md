@@ -1,17 +1,18 @@
 # Insedeer-testinium-bootcamp-automation-project
 
-**Proje Tanımı:**
+**Project Description:**
 
-Bu proje, Testinium Bootcamp kapsamında geliştirilen bir web otomasyon projesidir. Amaç, Amazon Türkiye web sitesi üzerinde belirli senaryoları otomatikleştirerek test etmektir. Proje, Selenium WebDriver kullanarak Python dilinde yazılmıştır ve POM (Page Object Model) tasarım desenine uygun olarak yapılandırılmıştır.
+This project is a web automation project developed as part of the Testinium Bootcamp. The aim is to automate specific scenarios on the Amazon Turkey website and test them. The project is written in Python using Selenium WebDriver and structured according to the Page Object Model (POM) design pattern.
 
-**Proje Özellikleri:**
+**Project Featuresi:**
 
-* **Amazon Türkiye Otomasyonu:** Amazon Türkiye web sitesinde arama, ürün seçimi, sepete ekleme ve sepet kontrolü gibi işlemleri otomatikleştirir.
-* **Selenium WebDriver:** Web tarayıcısı üzerinde etkileşimleri simüle etmek için Selenium WebDriver kütüphanesini kullanır.
-* **Python:** Otomasyon scriptleri Python programlama dili ile yazılmıştır.
-* **POM (Page Object Model):** Kodun daha okunabilir, sürdürülebilir ve bakımı kolay olması için POM tasarım deseni kullanılmıştır.
-* **Locator Kullanımı:** Web elementlerini bulmak için etkili ve güvenilir locator stratejileri kullanılmıştır.
-* **PyCharm IDE:** Geliştirme ortamı olarak PyCharm kullanılmıştır.
+* **Amazon Turkey Automation:**  Automates operations such as searching, selecting a product, adding to the cart, and checking the cart on the Amazon Turkey website.
+
+* **Selenium WebDriver:**  Utilizes the Selenium WebDriver library to simulate interactions with the web browser.
+* **Python:** The automation scripts are written in Python programming language.
+* **POM (Page Object Model):**  Uses the POM design pattern to ensure the code is more readable, maintainable, and easier to manage.
+* **Locator Kullanımı:** Employs effective and reliable locator strategies to identify web elements.
+* **PyCharm IDE:** PyCharm is used as the development environment.
 
 
 
